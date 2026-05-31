@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderconnect",
+        "uuid": 11219520,
+        "checksum": "3vue9"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
